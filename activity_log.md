@@ -5,3 +5,4 @@
 - [2026-03-28T21:26:18Z] fix: resolve edge case in input validation
 - [2026-03-28T18:29:53Z] chore: update dependencies to latest versions
 - [2026-03-28T15:12:19Z] docs: improve inline documentation
+- [2026-03-28T08:34:30Z] feat: add helper utility function
